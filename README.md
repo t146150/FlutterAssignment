@@ -9,7 +9,7 @@ This project is a Flutter mobile application based on a provided Figma design, u
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/t146150/FlutterAssignment.git
    cd flutter_assignment
    ```
 2. **Install dependencies:**
@@ -17,7 +17,6 @@ This project is a Flutter mobile application based on a provided Figma design, u
    flutter pub get
    ```
 3. **Add required assets:**
-   - Place images (`pic1.png` to `pic5.png`, menu icons) in `assets/images/`.
    - Update `pubspec.yaml`:
      ```yaml
      flutter:
