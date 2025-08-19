@@ -6,6 +6,11 @@
 This project is a Flutter mobile application based on a provided Figma design, using GetX for state management. It demonstrates clean architecture, separation of View/Controller, and native permission handling.
 
 ## Installation & Run Instructions
+0. **Install APK to android phone:**
+   ```sh
+   please go to the link to download and install apk on your android phone  
+   https://drive.google.com/file/d/17_KH1dCF33EgCmTBuki61lyV-CGzHUZf/view?usp=sharing
+   ```
 
 1. **Clone the repository:**
    ```sh
